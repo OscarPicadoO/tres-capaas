@@ -1,0 +1,5 @@
+C:\Users\kensa\Documents\UAM\Progra 4\TresCapas\Datos\bin\Debug\Datos.dll
+C:\Users\kensa\Documents\UAM\Progra 4\TresCapas\Datos\bin\Debug\Datos.pdb
+C:\Users\kensa\Documents\UAM\Progra 4\TresCapas\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\kensa\Documents\UAM\Progra 4\TresCapas\Datos\obj\Debug\Datos.dll
+C:\Users\kensa\Documents\UAM\Progra 4\TresCapas\Datos\obj\Debug\Datos.pdb

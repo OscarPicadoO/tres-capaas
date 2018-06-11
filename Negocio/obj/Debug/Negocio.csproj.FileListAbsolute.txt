@@ -1,0 +1,7 @@
+C:\Users\kensa\Documents\UAM\Progra 4\TresCapas\Negocio\bin\Debug\Negocio.dll
+C:\Users\kensa\Documents\UAM\Progra 4\TresCapas\Negocio\bin\Debug\Negocio.pdb
+C:\Users\kensa\Documents\UAM\Progra 4\TresCapas\Negocio\bin\Debug\Datos.dll
+C:\Users\kensa\Documents\UAM\Progra 4\TresCapas\Negocio\bin\Debug\Datos.pdb
+C:\Users\kensa\Documents\UAM\Progra 4\TresCapas\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\kensa\Documents\UAM\Progra 4\TresCapas\Negocio\obj\Debug\Negocio.dll
+C:\Users\kensa\Documents\UAM\Progra 4\TresCapas\Negocio\obj\Debug\Negocio.pdb
